@@ -1,2 +1,2 @@
-def sayHelloPkg2():
+def sayHello():
     print('hello from package 2')
